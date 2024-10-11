@@ -101,6 +101,8 @@ luckyxyz如此变态以至于病态的控制欲，在可预见的未来luckytool
 
 最后，我使对lucktool最后一版源码进行处理，删除了危险行为代码，编译了一个版本供大家使用
 
+[Download here](https://github.com/Chen-qing31/Evil-Luckytool/releases/tag/no-track)
+
 > [!WARNING]
 >为了你的信息安全，请不用使用官方发布版本，并尽可能劝说你的朋友不要使用
 
