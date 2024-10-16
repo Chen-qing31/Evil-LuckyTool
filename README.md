@@ -1,5 +1,5 @@
-# Evil-Luckytool
-这里记录Lucktool模块被曝光的恶意行为，和其开发者luckyxyz的抽象小丑发言
+# Evil-LuckyTool
+这里记录LuckyTool模块被曝光的恶意行为，和其开发者luckyxyz的抽象小丑发言
 
 Here is a record of the malicious behavior of the lucktool module that was exposed, and the clown’s statement from its developer luckyxyz
 
@@ -41,7 +41,7 @@ Here is a record of the malicious behavior of the lucktool module that was expos
 
 ### - 为什么在被曝光后你要立即删库呢，如果你只是不想公开源码，完全可以选择归档仓库
 
-### - 你这是这么心虚的删除仓库，是在通过销毁证据，而回避事实吗
+### - 你这么心虚的删除仓库，是在通过销毁证据，而回避事实吗
 
 ```java
 
@@ -102,6 +102,8 @@ luckyxyz如此变态以至于病态的控制欲，在可预见的未来luckytool
 最后，我使对lucktool最后一版源码进行处理，删除了危险行为代码，编译了一个版本供大家使用
 
 [Download here](https://github.com/Chen-qing31/Evil-Luckytool/releases/tag/no-track)
+
+之后也许还会有更新，大家可以star，关注一下
 
 > [!WARNING]
 >为了你的信息安全，请不用使用官方发布版本，并尽可能劝说你的朋友不要使用
